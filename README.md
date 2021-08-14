@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @awolf-bot
+- 👋 Hi, I’m Aman
 - 👀 I’m interested in whatever seems intresting, u know curiosity right ?
 - 🌱 I’m currently learning spring boot.
 <!--- - 💞️ I’m looking to collaborate on ... .
